@@ -1,0 +1,501 @@
+InvoiceID,Date,Store,City,Product,Quantity,UnitPrice,TotalAmount,PaymentType,CustomerID,Feedback
+INV1000,2024-10-07,Store-A,Bengaluru,Soda,4,22.08,88.32,UPI,C100,Neutral
+INV1001,2024-10-20,Store-A,Hyderabad,Biscuits,4,44.05,176.2,Cash,C101,Very Good
+INV1002,2024-10-29,Store-C,CHENNAI,,13,42.38,550.94,Cash,C102,
+INV1003,2024-10-15,Store-B,Hyderabad,Juice,13,15.99,207.87,UPI,C103,
+INV1004,2024-10-11,Store-B,Bangalore,,12,16.12,193.44,UPI,C104,Neutral
+INV1005,,Store-B,CHENNAI,Chips,11,44.77,492.47,UPI,C105,Excellent
+INV1006,2024-10-29,Store-A,Hyderabad,Soda,3,31.41,94.23,Credit Card,C106,Very Good
+INV1007,2024-10-21,Store-A,Hyderabad,,10,22.49,224.9,Credit Card,C107,Good
+INV1008,2024-10-07,Store-D,CHENNAI,Biscuits,5,18.25,91.25,,C108,Good
+INV1009,2024-10-26,Store-A,Hyderabad,Juice,14,20.28,283.92,,C109,Neutral
+INV1010,2024-10-19,Store-A,CHENNAI,Soda,6,12.34,74.04,Cash,,Poor
+INV1011,2024-10-23,Store-A,Hyderabad,,7,20.98,146.86,Cash,C111,Excellent
+INV1012,2024-10-11,Store-B,Bengaluru,,14,37.03,518.42,,C112,
+INV1013,2024-10-11,Store-B,CHENNAI,Juice,10,27.83,278.3,Cash,C113,Excellent
+INV1014,2024-10-24,Store-A,Bengaluru,Biscuits,14,10.63,148.82,UPI,C114,Neutral
+INV1015,2024-10-21,Store-B,Delhi,Chips,1,42.75,42.75,Credit Card,C115,Excellent
+INV1016,2024-10-04,Store-D,Chennai,Biscuits,12,23.49,281.88,,,Good
+INV1017,2024-10-08,Store-B,Bengaluru,Chips,12,40.9,490.8,Credit Card,C117,Neutral
+INV1018,2024-10-24,Store-D,Hyderabad,Cookies,4,35.81,143.24,,C118,Good
+INV1019,2024-10-03,Store-C,Bangalore,,5,26.05,130.25,Credit Card,C119,Very Good
+INV1020,2024-10-22,Store-A,Delhi,,10,23.74,237.4,,C120,Very Good
+INV1021,2024-10-21,Store-B,Bengaluru,Soda,10,27.7,277.0,Credit Card,C121,Poor
+INV1022,2024-10-02,Store-D,Delhi,Cookies,3,36.78,110.34,UPI,C122,Excellent
+INV1023,2024-10-24,Store-C,Bengaluru,,8,35.61,284.88,,C123,Very Good
+INV1024,2024-10-12,Store-C,Bengaluru,Chips,11,33.71,370.81,,C124,Excellent
+INV1025,2024-10-30,Store-B,Bangalore,Juice,14,19.23,269.22,,C125,Good
+INV1026,2024-10-06,Store-B,Bangalore,Chips,10,17.61,176.1,UPI,C126,Neutral
+INV1027,2024-10-02,Store-C,Bengaluru,,6,25.14,150.84,Credit Card,C127,Very Good
+INV1028,2024-10-28,Store-A,Chennai,,1,49.82,49.82,,C128,Neutral
+INV1029,2024-10-21,Store-A,Bangalore,Chips,7,23.34,163.38,Credit Card,C129,Very Good
+INV1030,2024-10-01,Store-D,Bangalore,Juice,5,13.55,67.75,UPI,C130,Excellent
+INV1031,2024-10-12,Store-A,Bangalore,Cookies,5,35.4,177.0,Cash,C131,Very Good
+INV1032,2024-10-26,Store-C,CHENNAI,,4,16.82,67.28,,C132,
+INV1033,2024-10-22,Store-C,Delhi,Soda,10,26.91,269.1,UPI,,Very Good
+INV1034,2024-10-29,Store-C,Bengaluru,Chips,4,10.05,40.2,Credit Card,C134,Good
+INV1035,2024-10-12,Store-A,Chennai,Chips,11,49.25,541.75,,C135,Poor
+INV1036,2024-10-25,Store-D,Bangalore,Soda,7,25.3,,Credit Card,C136,Good
+INV1037,2024-10-17,Store-A,CHENNAI,Chips,2,48.97,97.94,Cash,C137,Neutral
+INV1038,2024-10-27,Store-D,Delhi,Soda,11,,,,,Excellent
+INV1039,2024-10-27,Store-A,Hyderabad,Soda,11,40.74,448.14,,C139,Excellent
+INV1040,2024-10-10,Store-C,Hyderabad,Soda,8,36.86,294.88,Credit Card,C140,Very Good
+INV1041,2024-10-28,Store-C,Bangalore,Juice,4,20.28,81.12,,C141,Excellent
+INV1042,2024-10-28,Store-B,Chennai,Cookies,8,44.59,356.72,UPI,C142,Poor
+INV1043,2024-10-16,Store-A,Chennai,Cookies,13,30.27,393.51,UPI,C143,Poor
+INV1044,2024-10-15,Store-A,Delhi,Biscuits,6,12.52,,Cash,C144,Very Good
+INV1045,2024-10-30,Store-B,Delhi,Juice,2,19.09,38.18,UPI,C145,Very Good
+INV1046,2024-10-30,Store-C,Bengaluru,Biscuits,7,25.24,176.68,Cash,C146,Neutral
+INV1047,2024-10-15,Store-A,Bangalore,,9,19.56,176.04,Credit Card,C147,Very Good
+INV1048,2024-10-30,Store-B,Hyderabad,Cookies,6,43.01,258.06,Credit Card,C148,Good
+INV1049,2024-10-19,Store-A,Bengaluru,Cookies,13,47.7,620.1,Cash,C149,Good
+INV1050,2024-10-12,Store-D,Chennai,Cookies,7,16.47,115.29,UPI,C150,Good
+INV1051,2024-10-23,Store-C,Bengaluru,Chips,13,32.98,428.74,UPI,C151,Poor
+INV1052,2024-10-20,Store-D,Hyderabad,Biscuits,3,25.64,76.92,Cash,C152,
+INV1053,2024-10-25,Store-C,Chennai,Juice,3,25.89,77.67,Cash,C153,Excellent
+INV1054,2024-10-03,Store-B,Delhi,Biscuits,14,35.12,491.68,Credit Card,C154,Neutral
+INV1055,2024-10-05,Store-C,CHENNAI,,13,31.3,406.9,Cash,C155,Very Good
+INV1056,2024-10-19,Store-C,CHENNAI,Cookies,8,15.65,125.2,UPI,C156,Neutral
+INV1057,2024-10-07,Store-B,Delhi,Juice,1,42.75,42.75,Cash,C157,Poor
+INV1058,2024-10-21,Store-C,Bangalore,Biscuits,2,10.92,21.84,Cash,C158,Very Good
+INV1059,2024-10-09,Store-A,Bengaluru,Cookies,12,18.94,227.28,Cash,C159,Very Good
+INV1060,2024-10-07,Store-B,Chennai,Cookies,14,32.92,460.88,Credit Card,C160,Poor
+INV1061,2024-10-18,Store-B,Delhi,Juice,4,33.01,132.04,Cash,C161,Excellent
+INV1062,2024-10-04,Store-B,Delhi,,13,22.55,293.15,,C162,Very Good
+INV1063,2024-10-25,Store-D,Bangalore,Soda,3,15.57,46.71,,C163,Excellent
+INV1064,2024-10-28,Store-D,Bengaluru,Juice,10,43.17,431.7,,C164,Poor
+INV1065,2024-10-14,Store-C,Delhi,Soda,2,48.11,96.22,UPI,C165,Neutral
+INV1066,2024-10-18,Store-B,Hyderabad,,7,36.65,256.55,UPI,C166,Very Good
+INV1067,2024-10-26,Store-C,Delhi,Chips,2,29.13,58.26,Cash,C167,
+INV1068,2024-10-09,Store-A,Chennai,Juice,1,19.3,19.3,,C168,Excellent
+INV1069,,Store-B,Bengaluru,Soda,3,41.07,123.21,Credit Card,C169,Very Good
+INV1070,2024-10-21,Store-A,Chennai,,11,33.77,371.47,,C170,Excellent
+INV1071,2024-10-02,Store-C,Bengaluru,Biscuits,8,45.04,360.32,,C171,Very Good
+INV1072,2024-10-20,Store-D,Hyderabad,Cookies,5,44.06,220.3,UPI,C172,Very Good
+INV1073,2024-10-28,Store-C,Chennai,Chips,1,,,UPI,C173,Very Good
+INV1074,2024-10-15,Store-A,CHENNAI,Juice,8,,,Credit Card,C174,Neutral
+INV1075,2024-10-28,Store-B,Delhi,Soda,8,24.59,196.72,UPI,C175,
+INV1076,2024-10-07,Store-C,Hyderabad,Biscuits,8,32.58,260.64,Credit Card,C176,Very Good
+INV1077,2024-10-12,Store-B,Bengaluru,Soda,4,18.47,73.88,UPI,C177,Excellent
+INV1078,2024-10-29,Store-D,Chennai,,6,40.17,241.02,,C178,Neutral
+INV1079,,Store-D,Delhi,Juice,7,21.89,153.23,,C179,Good
+INV1080,2024-10-15,Store-D,Hyderabad,,7,16.83,117.81,Credit Card,C180,Excellent
+INV1081,2024-10-03,Store-B,Bengaluru,Soda,1,41.31,41.31,Credit Card,C181,Excellent
+INV1082,2024-10-14,Store-C,CHENNAI,Juice,3,17.11,,UPI,C182,
+INV1083,2024-10-17,Store-B,CHENNAI,Soda,3,34.72,104.16,UPI,C183,Good
+INV1084,2024-10-04,Store-B,Bengaluru,Cookies,12,19.16,,Credit Card,C184,Neutral
+INV1085,2024-10-18,Store-C,CHENNAI,Juice,1,18.83,18.83,Credit Card,C185,Very Good
+INV1086,2024-10-08,Store-D,Hyderabad,Juice,4,36.23,144.92,,C186,Excellent
+INV1087,2024-10-04,Store-D,Delhi,Chips,2,38.97,77.94,,C187,
+INV1088,2024-10-02,Store-C,CHENNAI,Cookies,7,26.19,183.33,Credit Card,C188,
+INV1089,2024-10-30,Store-B,Delhi,Juice,5,24.17,120.85,,,
+INV1090,2024-10-06,Store-B,Bangalore,Biscuits,14,29.27,409.78,Cash,C190,Good
+INV1091,2024-10-22,Store-D,CHENNAI,Soda,5,25.48,127.4,UPI,C191,Very Good
+INV1092,2024-10-10,Store-A,Bangalore,Biscuits,4,19.94,79.76,,C192,Neutral
+INV1093,2024-10-04,Store-A,Delhi,Soda,-3,26.74,-80.22,Cash,C193,Excellent
+INV1094,2024-10-22,Store-A,Chennai,,14,33.29,466.06,Credit Card,C194,
+INV1095,2024-10-29,Store-B,Delhi,Soda,14,17.59,246.26,,C195,Very Good
+INV1096,2024-10-18,Store-B,Hyderabad,Chips,1,22.94,22.94,Credit Card,C196,Very Good
+INV1097,2024-10-26,Store-D,Chennai,,1,35.17,35.17,UPI,C197,Poor
+INV1098,2024-10-12,Store-A,Chennai,Juice,8,12.58,100.64,Credit Card,C198,
+INV1099,2024-10-02,Store-D,CHENNAI,Soda,9,,,Cash,C199,Good
+INV1100,2024-10-10,Store-D,CHENNAI,Chips,6,20.63,123.78,Credit Card,C200,Very Good
+INV1101,2024-10-30,Store-D,CHENNAI,Biscuits,14,29.97,419.58,Cash,C201,Neutral
+INV1102,2024-10-04,Store-C,Delhi,,10,15.97,159.7,,C202,Poor
+INV1103,2024-10-14,Store-A,Chennai,,7,44.59,312.13,,C203,Very Good
+INV1104,2024-10-16,Store-A,Hyderabad,Chips,6,36.07,216.42,Cash,C204,
+INV1105,2024-10-15,Store-C,Hyderabad,Biscuits,5,34.56,172.8,UPI,C205,
+INV1106,2024-10-08,Store-C,Bangalore,,9,25.7,231.3,UPI,C206,Very Good
+INV1107,2024-10-14,Store-A,Bengaluru,Juice,1,15.33,15.33,UPI,C207,Neutral
+INV1108,2024-10-23,Store-C,Hyderabad,Soda,6,36.35,218.1,,C208,Poor
+INV1109,2024-10-28,Store-D,CHENNAI,Cookies,7,42.36,296.52,,C209,
+INV1110,2024-10-25,Store-B,Bangalore,Biscuits,6,21.17,127.02,UPI,C210,Poor
+INV1111,2024-10-30,Store-D,CHENNAI,Soda,9,20.12,181.08,Credit Card,C211,Good
+INV1112,2024-10-08,Store-A,Chennai,Cookies,11,43.01,473.11,UPI,C212,Very Good
+INV1113,2024-10-21,Store-C,Chennai,,12,25.45,,Credit Card,C213,
+INV1114,2024-10-16,Store-B,Delhi,Cookies,5,19.08,95.4,UPI,,Good
+INV1115,2024-10-13,Store-A,CHENNAI,Biscuits,13,28.02,364.26,Credit Card,C215,Poor
+INV1116,2024-10-18,Store-C,Hyderabad,Soda,5,14.23,71.15,,C216,Good
+INV1117,2024-10-15,Store-B,Bengaluru,,10,27.73,277.3,UPI,C217,Neutral
+INV1118,2024-10-21,Store-B,CHENNAI,,2,,,UPI,C218,Excellent
+INV1119,2024-10-24,Store-C,Hyderabad,,11,,,Cash,C219,Neutral
+INV1120,2024-10-26,Store-B,Bangalore,,5,36.36,181.8,UPI,C220,Poor
+INV1121,2024-10-25,Store-A,CHENNAI,Cookies,10,14.21,142.1,Credit Card,C221,Neutral
+INV1122,2024-10-28,Store-C,Bangalore,,11,,,Cash,C222,
+INV1123,2024-10-28,Store-D,Hyderabad,Chips,4,25.5,102.0,UPI,C223,Poor
+INV1124,2024-10-28,Store-A,Hyderabad,,7,49.66,347.62,UPI,C224,Neutral
+INV1125,2024-10-13,Store-A,Hyderabad,,6,47.69,286.14,,C225,Very Good
+INV1126,2024-10-09,Store-C,Hyderabad,Chips,8,24.19,193.52,Cash,,Very Good
+INV1127,2024-10-29,Store-C,Chennai,Soda,5,31.98,159.9,Credit Card,C227,Neutral
+INV1128,2024-10-15,Store-B,Delhi,Juice,10,12.75,127.5,UPI,C228,
+INV1129,2024-10-13,Store-A,Hyderabad,Chips,4,13.3,53.2,,C229,
+INV1130,2024-10-01,Store-B,Chennai,Biscuits,4,45.96,183.84,UPI,C230,Good
+INV1131,2024-10-25,Store-A,Bengaluru,Soda,14,19.11,267.54,Cash,C231,
+INV1132,2024-10-07,Store-A,Chennai,,-3,36.69,-110.07,Credit Card,C232,Poor
+INV1133,2024-10-09,Store-D,Bangalore,Cookies,2,,,,C233,Very Good
+INV1134,2024-10-24,Store-A,Bengaluru,Chips,9,20.43,183.87,UPI,C234,Poor
+INV1135,2024-10-01,Store-B,Bangalore,Soda,1,48.39,,Credit Card,C235,Very Good
+INV1136,2024-10-12,Store-B,Delhi,Soda,11,45.83,504.13,UPI,C236,Excellent
+INV1137,2024-10-08,Store-D,CHENNAI,,9,15.01,135.09,UPI,,
+INV1138,2024-10-24,Store-B,CHENNAI,Juice,3,14.56,43.68,Cash,C238,Neutral
+INV1139,2024-10-11,Store-C,Chennai,Cookies,12,46.81,,Cash,C239,Very Good
+INV1140,2024-10-19,Store-D,Bangalore,Cookies,14,34.66,485.24,UPI,C240,Neutral
+INV1141,2024-10-17,Store-B,Delhi,Cookies,12,11.75,141.0,,C241,Excellent
+INV1142,2024-10-08,Store-B,CHENNAI,Biscuits,12,33.94,407.28,Cash,C242,Poor
+INV1143,2024-10-03,Store-C,Delhi,Soda,1,25.04,25.04,Cash,C243,Neutral
+INV1144,2024-10-03,Store-D,Delhi,Biscuits,10,25.55,255.5,Cash,C244,Very Good
+INV1145,2024-10-01,Store-C,CHENNAI,Biscuits,1,20.95,20.95,Cash,C245,Excellent
+INV1146,2024-10-27,Store-D,CHENNAI,Soda,14,37.04,518.56,Credit Card,C246,Very Good
+INV1147,2024-10-05,Store-D,Bengaluru,Cookies,-3,10.51,-31.53,UPI,C247,Excellent
+INV1148,2024-10-10,Store-A,Bengaluru,Soda,1,36.86,36.86,Credit Card,C248,
+INV1149,2024-10-07,Store-B,Hyderabad,Juice,6,45.17,271.02,Credit Card,,
+INV1150,2024-10-26,Store-B,Bangalore,Soda,8,31.76,254.08,UPI,C250,
+INV1151,2024-10-09,Store-A,CHENNAI,,9,18.84,,Cash,C251,
+INV1152,2024-10-28,Store-C,Delhi,Soda,11,39.93,439.23,,C252,
+INV1153,2024-10-07,Store-A,Bangalore,Chips,-3,17.22,-51.66,Cash,C253,Excellent
+INV1154,2024-10-09,Store-B,Hyderabad,Juice,10,22.8,228.0,Cash,C254,Very Good
+INV1155,2024-10-08,Store-B,Delhi,Chips,1,20.77,20.77,Cash,C255,Neutral
+INV1156,2024-10-12,Store-A,Chennai,Cookies,5,39.12,195.6,Cash,,Poor
+INV1157,2024-10-02,Store-A,Hyderabad,Cookies,7,37.41,261.87,,C257,Poor
+INV1158,2024-10-01,Store-A,CHENNAI,,5,48.61,243.05,Credit Card,C258,Excellent
+INV1159,2024-10-16,Store-B,Chennai,,3,16.03,48.09,,C259,Very Good
+INV1160,2024-10-23,Store-A,Chennai,,2,26.54,53.08,UPI,C260,Excellent
+INV1161,2024-10-23,Store-A,Hyderabad,Juice,13,39.74,516.62,Cash,C261,Poor
+INV1162,2024-10-30,Store-C,CHENNAI,Biscuits,14,14.24,199.36,,C262,Excellent
+INV1163,2024-10-24,Store-A,Delhi,Soda,3,13.75,41.25,UPI,C263,Excellent
+INV1164,2024-10-05,Store-B,Chennai,Chips,10,45.09,450.9,,C264,
+INV1165,2024-10-03,Store-C,Hyderabad,Juice,14,16.43,230.02,Cash,C265,Poor
+INV1166,2024-10-12,Store-D,Hyderabad,Chips,3,42.47,127.41,Cash,C266,
+INV1167,2024-10-08,Store-B,Delhi,Soda,13,45.26,588.38,UPI,C267,
+INV1168,2024-10-22,Store-B,CHENNAI,Biscuits,5,17.76,88.8,,C268,Neutral
+INV1169,2024-10-27,Store-D,Hyderabad,Chips,10,36.3,363.0,Cash,C269,Excellent
+INV1170,2024-10-03,Store-B,Hyderabad,Juice,12,39.69,476.28,UPI,C270,Neutral
+INV1171,2024-10-01,Store-D,Hyderabad,Soda,8,34.6,276.8,,C271,Excellent
+INV1172,2024-10-03,Store-D,Bangalore,,13,25.01,325.13,,C272,Very Good
+INV1173,2024-10-05,Store-B,Bengaluru,,13,30.97,402.61,UPI,C273,
+INV1174,2024-10-15,Store-A,Delhi,,13,43.6,566.8,,C274,Excellent
+INV1175,2024-10-14,Store-A,Bangalore,Soda,14,10.44,146.16,,C275,Excellent
+INV1176,2024-10-03,Store-D,Hyderabad,Biscuits,3,40.35,121.05,Cash,C276,Good
+INV1177,2024-10-01,Store-C,Bengaluru,Juice,14,40.25,563.5,Cash,C277,Very Good
+INV1178,2024-10-05,Store-D,Delhi,,13,28.81,,Cash,C278,
+INV1179,2024-10-26,Store-D,Chennai,Soda,3,14.99,44.97,UPI,C279,Very Good
+INV1180,2024-10-23,Store-D,Delhi,Chips,14,35.73,500.22,Credit Card,C280,Neutral
+INV1181,2024-10-14,Store-A,Bangalore,,14,18.69,261.66,,C281,Neutral
+INV1182,2024-10-07,Store-A,Bangalore,Cookies,14,36.52,511.28,UPI,C282,Excellent
+INV1183,2024-10-27,Store-A,Bangalore,Juice,9,,,Credit Card,C283,Poor
+INV1184,2024-10-09,Store-D,Delhi,Chips,12,11.16,133.92,Credit Card,C284,Excellent
+INV1185,2024-10-15,Store-C,CHENNAI,Biscuits,-3,17.25,-51.75,UPI,C285,Good
+INV1186,2024-10-15,Store-A,Hyderabad,Biscuits,7,26.09,182.63,Credit Card,C286,Excellent
+INV1187,2024-10-26,Store-B,Delhi,Soda,1,30.4,30.4,Cash,C287,
+INV1188,2024-10-10,Store-B,Chennai,Biscuits,3,14.17,42.51,UPI,C288,Good
+INV1189,2024-10-28,Store-B,Chennai,Cookies,8,38.12,304.96,,C289,Excellent
+INV1190,2024-10-13,Store-D,Chennai,,4,29.46,117.84,Cash,C290,Neutral
+INV1191,2024-10-19,Store-B,Hyderabad,Chips,5,34.09,170.45,,C291,
+INV1192,2024-10-07,Store-D,Bengaluru,,1,,,Credit Card,C292,Excellent
+INV1193,2024-10-17,Store-B,Bangalore,Juice,9,35.46,319.14,Cash,C293,
+INV1194,2024-10-20,Store-C,Hyderabad,,9,37.82,340.38,,C294,Neutral
+INV1195,2024-10-29,Store-D,Bangalore,Soda,12,49.28,591.36,UPI,C295,Poor
+INV1196,2024-10-04,Store-B,Hyderabad,,5,43.01,215.05,Credit Card,C296,Poor
+INV1197,2024-10-30,Store-A,Bangalore,Juice,12,24.94,299.28,,C297,Very Good
+INV1198,2024-10-05,Store-D,Hyderabad,Chips,8,39.42,315.36,Credit Card,C298,Excellent
+INV1199,2024-10-23,Store-A,Bengaluru,Cookies,8,24.86,198.88,,C299,Very Good
+INV1200,2024-10-07,Store-A,Delhi,Chips,13,42.05,546.65,UPI,C300,
+INV1201,2024-10-13,Store-A,Chennai,Chips,-3,39.34,-118.02,Cash,C301,Excellent
+INV1202,2024-10-15,Store-A,Bangalore,Soda,8,16.94,135.52,,C302,Poor
+INV1203,2024-10-11,Store-B,Hyderabad,Juice,6,29.85,179.1,Credit Card,C303,Good
+INV1204,2024-10-29,Store-B,Bengaluru,Chips,13,37.44,486.72,UPI,C304,Very Good
+INV1205,2024-10-04,Store-D,Bengaluru,Chips,11,39.89,438.79,Cash,C305,
+INV1206,2024-10-13,Store-D,Chennai,Cookies,10,48.01,480.1,Credit Card,C306,Very Good
+INV1207,2024-10-07,Store-D,Hyderabad,Biscuits,10,32.62,326.2,UPI,C307,Poor
+INV1208,2024-10-27,Store-B,Delhi,Cookies,6,16.61,99.66,Credit Card,C308,Poor
+INV1209,2024-10-19,Store-D,Bangalore,Juice,6,33.43,200.58,UPI,C309,Good
+INV1210,2024-10-22,Store-A,Delhi,Juice,1,37.91,37.91,Cash,C310,
+INV1211,2024-10-28,Store-B,CHENNAI,Soda,10,41.3,413.0,Cash,C311,Very Good
+INV1212,2024-10-02,Store-D,Bengaluru,,11,44.11,485.21,Credit Card,C312,Poor
+INV1213,2024-10-10,Store-A,Bengaluru,,2,25.08,50.16,UPI,C313,
+INV1214,2024-10-13,Store-D,Chennai,,1,29.24,29.24,,C314,Poor
+INV1215,2024-10-30,Store-C,Hyderabad,Biscuits,3,47.49,142.47,Cash,C315,Good
+INV1216,2024-10-25,Store-D,CHENNAI,Juice,8,35.25,282.0,,C316,Good
+INV1217,2024-10-21,Store-C,CHENNAI,Biscuits,9,,,,C317,Neutral
+INV1218,2024-10-06,Store-D,CHENNAI,,14,46.38,649.32,Credit Card,C318,Excellent
+INV1219,2024-10-28,Store-D,Hyderabad,,11,10.28,113.08,Credit Card,C319,
+INV1220,2024-10-28,Store-B,Bangalore,Cookies,3,19.01,57.03,Credit Card,C320,Neutral
+INV1221,2024-10-12,Store-B,Bengaluru,Juice,13,25.95,337.35,UPI,C321,Good
+INV1222,2024-10-12,Store-C,Hyderabad,,9,28.88,,Cash,C322,
+INV1223,2024-10-20,Store-B,CHENNAI,Chips,10,,,Cash,C323,Poor
+INV1224,2024-10-30,Store-A,Bengaluru,Juice,8,11.78,94.24,,C324,Good
+INV1225,2024-10-30,Store-A,Bengaluru,Biscuits,11,,,Credit Card,,Very Good
+INV1226,2024-10-11,Store-C,CHENNAI,Juice,8,21.02,168.16,UPI,C326,Poor
+INV1227,2024-10-26,Store-A,CHENNAI,Soda,6,48.99,293.94,Cash,C327,Neutral
+INV1228,2024-10-23,Store-A,Bengaluru,Chips,5,27.16,135.8,UPI,C328,
+INV1229,2024-10-28,Store-D,Chennai,,2,20.73,41.46,Credit Card,C329,Neutral
+INV1230,2024-10-25,Store-B,Delhi,Soda,12,44.12,529.44,Credit Card,C330,Neutral
+INV1231,2024-10-07,Store-A,Delhi,Cookies,12,,,Cash,C331,
+INV1232,2024-10-30,Store-A,Bengaluru,Juice,1,32.48,32.48,,C332,Poor
+INV1233,2024-10-01,Store-B,Bangalore,Juice,13,22.61,293.93,,C333,Excellent
+INV1234,2024-10-01,Store-A,Bangalore,Cookies,13,13.46,174.98,Credit Card,C334,Excellent
+INV1235,2024-10-25,Store-A,Chennai,Soda,3,39.3,117.9,Credit Card,C335,Excellent
+INV1236,2024-10-27,Store-B,Hyderabad,Chips,2,15.12,30.24,,C336,
+INV1237,2024-10-30,Store-D,Bengaluru,,13,25.74,334.62,Credit Card,C337,Good
+INV1238,2024-10-25,Store-A,Bangalore,Soda,6,41.51,249.06,Cash,C338,Good
+INV1239,2024-10-20,Store-B,Bengaluru,Biscuits,8,29.78,238.24,Cash,C339,
+INV1240,2024-10-13,Store-A,Chennai,,11,15.8,173.8,UPI,C340,Very Good
+INV1241,2024-10-09,Store-A,CHENNAI,Soda,9,17.65,158.85,,C341,Poor
+INV1242,2024-10-03,Store-D,Chennai,Chips,13,22.35,290.55,Credit Card,C342,Very Good
+INV1243,2024-10-07,Store-C,Chennai,Juice,10,48.69,486.9,UPI,C343,
+INV1244,2024-10-06,Store-C,Chennai,Soda,11,10.88,119.68,Cash,C344,
+INV1245,2024-10-08,Store-B,Bangalore,Cookies,7,26.72,187.04,,C345,Good
+INV1246,2024-10-27,Store-C,Chennai,Chips,13,37.35,485.55,Cash,C346,Poor
+INV1247,2024-10-09,Store-B,CHENNAI,Juice,3,49.22,147.66,Credit Card,C347,Neutral
+INV1248,2024-10-30,Store-C,CHENNAI,Chips,10,26.16,261.6,UPI,C348,Poor
+INV1249,2024-10-05,Store-D,CHENNAI,,11,41.67,458.37,Credit Card,C349,Good
+INV1250,2024-10-01,Store-B,Hyderabad,Cookies,7,34.52,241.64,Credit Card,C350,Neutral
+INV1251,2024-10-19,Store-C,Chennai,,4,43.88,175.52,,C351,Neutral
+INV1252,2024-10-10,Store-D,CHENNAI,,13,15.64,203.32,,C352,Poor
+INV1253,2024-10-12,Store-C,Hyderabad,Biscuits,7,18.64,130.48,Credit Card,C353,
+INV1254,2024-10-24,Store-A,Chennai,Chips,13,44.48,578.24,,C354,Excellent
+INV1255,2024-10-15,Store-A,Chennai,Chips,1,39.97,39.97,UPI,C355,Good
+INV1256,2024-10-27,Store-D,Bengaluru,Soda,8,41.48,331.84,UPI,C356,Good
+INV1257,2024-10-22,Store-A,Chennai,Cookies,12,24.24,290.88,Credit Card,C357,Excellent
+INV1258,,Store-A,Delhi,Cookies,13,41.76,542.88,UPI,C358,Very Good
+INV1259,2024-10-09,Store-B,Bengaluru,Biscuits,6,23.59,141.54,Credit Card,,Very Good
+INV1260,2024-10-20,Store-C,Bangalore,Cookies,7,31.79,,UPI,,Good
+INV1261,2024-10-17,Store-B,Delhi,Chips,2,40.16,80.32,Cash,C361,Excellent
+INV1262,2024-10-30,Store-C,Bangalore,Biscuits,12,,,Credit Card,C362,Excellent
+INV1263,2024-10-17,Store-A,Hyderabad,Cookies,5,36.39,181.95,UPI,C363,Neutral
+INV1264,2024-10-26,Store-B,Delhi,Biscuits,4,20.22,,Cash,C364,
+INV1265,2024-10-20,Store-C,Bengaluru,Cookies,4,32.41,129.64,Credit Card,C365,Very Good
+INV1266,2024-10-12,Store-C,Bangalore,Cookies,11,32.32,355.52,UPI,C366,Very Good
+INV1267,2024-10-30,Store-B,Bangalore,Soda,12,13.77,,UPI,C367,Neutral
+INV1268,2024-10-07,Store-D,Bangalore,Cookies,10,21.3,213.0,Cash,C368,Poor
+INV1269,2024-10-02,Store-C,Chennai,Biscuits,6,41.93,251.58,,C369,Very Good
+INV1270,2024-10-03,Store-A,Bengaluru,Chips,11,28.07,308.77,,C370,Neutral
+INV1271,2024-10-17,Store-C,Bangalore,Soda,14,13.74,192.36,Cash,C371,Excellent
+INV1272,2024-10-05,Store-A,Bengaluru,Cookies,-3,17.82,-53.46,Cash,C372,Poor
+INV1273,2024-10-17,Store-B,CHENNAI,Cookies,3,13.76,41.28,Credit Card,C373,Good
+INV1274,2024-10-24,Store-C,CHENNAI,Biscuits,12,40.3,483.6,,C374,Excellent
+INV1275,2024-10-17,Store-A,Delhi,Soda,11,22.49,247.39,Credit Card,C375,Poor
+INV1276,2024-10-27,Store-A,Chennai,Cookies,3,17.83,53.49,UPI,C376,
+INV1277,2024-10-17,Store-B,CHENNAI,Chips,7,30.81,215.67,Cash,C377,Neutral
+INV1278,2024-10-02,Store-C,Hyderabad,,14,32.31,452.34,Credit Card,C378,
+INV1279,2024-10-02,Store-C,Bengaluru,Chips,4,34.54,,Cash,C379,Excellent
+INV1280,2024-10-28,Store-B,Bangalore,Cookies,13,45.89,596.57,Credit Card,C380,
+INV1281,2024-10-22,Store-C,Hyderabad,Chips,7,30.28,211.96,UPI,C381,Poor
+INV1282,2024-10-23,Store-B,Delhi,Soda,11,11.34,124.74,UPI,C382,Good
+INV1283,2024-10-05,Store-C,Hyderabad,Cookies,2,39.31,78.62,,C383,
+INV1284,2024-10-01,Store-D,Delhi,Biscuits,4,22.53,90.12,,,Excellent
+INV1285,2024-10-01,Store-C,CHENNAI,Soda,11,48.71,535.81,UPI,C385,Excellent
+INV1286,2024-10-19,Store-A,Bengaluru,Chips,14,14.71,205.94,Credit Card,C386,Very Good
+INV1287,2024-10-30,Store-A,Delhi,Cookies,12,22.79,,Cash,C387,
+INV1288,2024-10-02,Store-D,Bangalore,Soda,5,29.41,147.05,UPI,C388,Poor
+INV1289,2024-10-21,Store-C,Hyderabad,Chips,6,39.01,234.06,UPI,C389,Poor
+INV1290,2024-10-12,Store-A,Delhi,Cookies,5,49.88,249.4,Credit Card,C390,Very Good
+INV1291,2024-10-26,Store-A,Chennai,,-3,36.25,-108.75,UPI,C391,
+INV1292,2024-10-06,Store-C,Delhi,Juice,2,37.47,74.94,UPI,C392,Neutral
+INV1293,2024-10-23,Store-B,Bangalore,Biscuits,1,11.17,11.17,Credit Card,,Neutral
+INV1294,2024-10-04,Store-C,CHENNAI,Chips,12,18.39,220.68,UPI,C394,Very Good
+INV1295,2024-10-23,Store-B,Bengaluru,,12,48.94,587.28,,C395,Excellent
+INV1296,2024-10-11,Store-D,Chennai,Chips,8,21.86,174.88,,C396,Good
+INV1297,2024-10-24,Store-D,Bangalore,Juice,9,14.43,,,C397,Neutral
+INV1298,2024-10-27,Store-A,Delhi,Juice,5,49.52,247.6,,C398,
+INV1299,2024-10-17,Store-A,Bangalore,Soda,11,36.07,396.77,UPI,C399,Good
+INV1300,2024-10-06,Store-A,Hyderabad,Biscuits,4,20.17,80.68,Cash,C400,Poor
+INV1301,2024-10-24,Store-B,Bangalore,Biscuits,13,45.19,587.47,,C401,Poor
+INV1302,2024-10-05,Store-A,Bengaluru,Chips,5,19.77,98.85,,C402,Neutral
+INV1303,2024-10-20,Store-C,Bengaluru,Juice,10,13.49,134.9,UPI,,Excellent
+INV1304,2024-10-02,Store-B,Bangalore,Biscuits,14,26.8,375.2,UPI,C404,Poor
+INV1305,2024-10-06,Store-D,Hyderabad,Cookies,14,39.59,,Credit Card,C405,Good
+INV1306,2024-10-22,Store-B,Chennai,Biscuits,1,34.55,34.55,,C406,Excellent
+INV1307,2024-10-11,Store-A,Delhi,Chips,4,33.09,132.36,Credit Card,C407,Neutral
+INV1308,2024-10-16,Store-C,Chennai,,6,42.25,253.5,,C408,Poor
+INV1309,2024-10-16,Store-C,Hyderabad,,12,20.16,241.92,Cash,C409,Neutral
+INV1310,2024-10-01,Store-A,CHENNAI,Biscuits,6,,,UPI,C410,Excellent
+INV1311,2024-10-09,Store-C,Bengaluru,Soda,2,14.25,28.5,UPI,C411,Excellent
+INV1312,2024-10-28,Store-B,CHENNAI,Juice,11,10.15,111.65,Credit Card,C412,Excellent
+INV1313,2024-10-27,Store-B,Delhi,,-3,16.69,-50.07,Credit Card,C413,Very Good
+INV1314,2024-10-06,Store-A,Hyderabad,Chips,14,49.67,695.38,UPI,C414,
+INV1315,2024-10-16,Store-C,Delhi,Chips,14,13.08,183.12,UPI,C415,Very Good
+INV1316,2024-10-29,Store-D,CHENNAI,Juice,-3,44.66,-133.98,UPI,,Good
+INV1317,2024-10-03,Store-B,Hyderabad,Juice,9,24.42,219.78,,C417,Excellent
+INV1318,2024-10-20,Store-B,Chennai,Juice,6,40.53,243.18,,C418,
+INV1319,2024-10-28,Store-B,Chennai,,11,40.37,444.07,Cash,C419,Excellent
+INV1320,2024-10-27,Store-B,CHENNAI,Chips,8,19.31,154.48,,C420,
+INV1321,2024-10-04,Store-D,CHENNAI,Juice,12,12.36,148.32,UPI,C421,Poor
+INV1322,2024-10-19,Store-A,Bengaluru,,-3,36.03,-108.09,,C422,Good
+INV1323,2024-10-26,Store-B,Chennai,Juice,1,10.01,10.01,Credit Card,C423,
+INV1324,2024-10-03,Store-C,Bengaluru,Chips,2,25.59,51.18,UPI,C424,Good
+INV1325,2024-10-19,Store-D,CHENNAI,Chips,2,19.07,38.14,,C425,Neutral
+INV1326,2024-10-20,Store-B,Delhi,Soda,9,15.15,136.35,UPI,C426,Excellent
+INV1327,2024-10-07,Store-C,Hyderabad,Biscuits,1,42.09,42.09,Credit Card,C427,Poor
+INV1328,2024-10-20,Store-B,Chennai,Cookies,10,10.72,107.2,Credit Card,C428,Neutral
+INV1329,2024-10-09,Store-A,Hyderabad,Chips,2,11.09,22.18,,C429,
+INV1330,2024-10-01,Store-D,Bengaluru,Cookies,-3,15.1,-45.3,UPI,C430,Very Good
+INV1331,2024-10-08,Store-A,Bengaluru,Soda,2,48.91,97.82,Cash,C431,
+INV1332,2024-10-07,Store-D,Bangalore,Biscuits,12,37.97,455.64,Credit Card,C432,Excellent
+INV1333,2024-10-18,Store-B,Delhi,,11,49.27,541.97,Cash,C433,
+INV1334,2024-10-08,Store-B,Chennai,Biscuits,11,32.37,356.07,,C434,Good
+INV1335,2024-10-01,Store-D,Chennai,Biscuits,6,31.31,187.86,Credit Card,C435,
+INV1336,2024-10-11,Store-C,Bengaluru,,9,27.99,251.91,Cash,C436,Excellent
+INV1337,2024-10-28,Store-C,Delhi,Soda,8,14.81,118.48,Credit Card,C437,Excellent
+INV1338,2024-10-25,Store-B,Hyderabad,Juice,12,20.53,246.36,Cash,C438,Very Good
+INV1339,2024-10-25,Store-B,Chennai,Biscuits,14,,,UPI,C439,Poor
+INV1340,2024-10-18,Store-A,Bengaluru,Biscuits,7,21.35,149.45,UPI,C440,Poor
+INV1341,2024-10-23,Store-B,Bangalore,Soda,4,12.97,51.88,,C441,Poor
+INV1342,2024-10-30,Store-D,CHENNAI,Juice,6,39.21,235.26,Credit Card,C442,Neutral
+INV1343,2024-10-10,Store-C,Chennai,Biscuits,3,12.58,37.74,Cash,,Poor
+INV1344,2024-10-03,Store-C,Delhi,Biscuits,12,45.09,541.08,,C444,Neutral
+INV1345,2024-10-07,Store-A,CHENNAI,Juice,11,23.62,259.82,UPI,C445,
+INV1346,2024-10-28,Store-C,Hyderabad,Chips,12,35.05,420.6,UPI,C446,Very Good
+INV1347,,Store-C,Bangalore,,13,43.53,565.89,,C447,Excellent
+INV1348,2024-10-26,Store-D,Chennai,Chips,3,27.17,81.51,Credit Card,C448,Neutral
+INV1349,2024-10-16,Store-C,CHENNAI,,7,41.57,290.99,Cash,C449,
+INV1350,2024-10-25,Store-A,Delhi,,13,36.35,472.55,UPI,C450,Very Good
+INV1351,2024-10-20,Store-A,CHENNAI,Biscuits,7,18.81,131.67,,,Neutral
+INV1352,2024-10-28,Store-C,Bengaluru,,3,39.5,118.5,UPI,C452,Very Good
+INV1353,2024-10-17,Store-B,CHENNAI,Cookies,6,11.31,67.86,UPI,C453,
+INV1354,2024-10-02,Store-C,Hyderabad,Juice,6,12.59,75.54,Cash,C454,Poor
+INV1355,2024-10-01,Store-A,CHENNAI,Juice,8,11.01,88.08,Credit Card,C455,Poor
+INV1356,2024-10-16,Store-A,Hyderabad,Cookies,-3,13.29,-39.87,Credit Card,C456,
+INV1357,2024-10-30,Store-D,Hyderabad,Juice,3,28.58,85.74,Cash,C457,Very Good
+INV1358,2024-10-12,Store-C,Delhi,Soda,6,23.63,141.78,,,Good
+INV1359,2024-10-05,Store-C,Bengaluru,Juice,1,16.82,16.82,,C459,Very Good
+INV1360,2024-10-05,Store-D,Bangalore,Juice,1,27.81,27.81,Credit Card,C460,Neutral
+INV1361,2024-10-27,Store-A,Hyderabad,Juice,10,35.58,355.8,UPI,C461,Very Good
+INV1362,2024-10-23,Store-D,CHENNAI,,4,15.27,61.08,UPI,C462,
+INV1363,2024-10-09,Store-B,Delhi,Chips,12,41.47,497.64,,C463,Excellent
+INV1364,2024-10-09,Store-C,CHENNAI,Soda,4,20.51,82.04,Cash,C464,Good
+INV1365,2024-10-03,Store-A,Hyderabad,Juice,2,28.92,57.84,UPI,C465,Very Good
+INV1366,2024-10-19,Store-D,Delhi,Soda,9,20.76,186.84,,C466,Good
+INV1367,2024-10-16,Store-A,CHENNAI,,5,45.66,228.3,Cash,C467,Good
+INV1368,2024-10-16,Store-B,Chennai,Soda,4,,,Credit Card,C468,Very Good
+INV1369,2024-10-03,Store-C,Bengaluru,Soda,2,,,Cash,C469,Very Good
+INV1370,2024-10-20,Store-D,CHENNAI,Cookies,7,46.3,324.1,Credit Card,,Poor
+INV1371,2024-10-24,Store-A,Bengaluru,,3,28.79,86.37,,C471,Very Good
+INV1372,2024-10-22,Store-C,Hyderabad,Juice,13,28.92,375.96,Cash,C472,Very Good
+INV1373,2024-10-24,Store-C,Hyderabad,Chips,13,28.79,374.27,,C473,Poor
+INV1374,2024-10-01,Store-A,Hyderabad,Chips,5,28.97,144.85,Credit Card,C474,Poor
+INV1375,2024-10-24,Store-C,Bengaluru,Chips,3,31.48,94.44,UPI,C475,Excellent
+INV1376,2024-10-20,Store-C,CHENNAI,Chips,4,11.98,47.92,UPI,C476,Very Good
+INV1377,2024-10-11,Store-D,Chennai,Juice,7,43.76,306.32,Credit Card,C477,Neutral
+INV1378,2024-10-17,Store-C,Bengaluru,Chips,14,28.51,399.14,UPI,C478,Good
+INV1379,2024-10-08,Store-D,Delhi,,7,18.74,131.18,UPI,C479,
+INV1380,2024-10-04,Store-C,Chennai,,13,11.78,153.14,Cash,C480,Poor
+INV1381,2024-10-06,Store-B,CHENNAI,Soda,6,42.67,256.02,Cash,C481,
+INV1382,2024-10-08,Store-B,CHENNAI,Cookies,14,42.73,598.22,UPI,C482,Very Good
+INV1383,2024-10-20,Store-D,Bengaluru,Biscuits,9,45.19,406.71,Cash,C483,Neutral
+INV1384,2024-10-30,Store-D,Bangalore,Chips,7,11.19,78.33,Credit Card,C484,Good
+INV1385,2024-10-03,Store-B,Chennai,Biscuits,11,11.79,129.69,Cash,C485,Very Good
+INV1386,2024-10-16,Store-C,Hyderabad,Biscuits,12,47.18,566.16,Cash,C486,Neutral
+INV1387,2024-10-30,Store-D,Chennai,Biscuits,5,25.59,,Cash,C487,Good
+INV1388,2024-10-25,Store-A,CHENNAI,Soda,1,45.29,45.29,,C488,Neutral
+INV1389,2024-10-03,Store-C,Delhi,,8,20.33,162.64,Credit Card,C489,Poor
+INV1390,2024-10-25,Store-C,CHENNAI,Chips,7,21.87,153.09,UPI,C490,Very Good
+INV1391,2024-10-29,Store-B,Bengaluru,Juice,11,48.16,529.76,UPI,C491,Neutral
+INV1392,2024-10-18,Store-D,Bangalore,Soda,6,44.52,267.12,,C492,Neutral
+INV1393,2024-10-14,Store-C,Hyderabad,,10,,,Cash,C493,Very Good
+INV1394,,Store-D,Chennai,Juice,12,43.18,518.16,Credit Card,C494,Good
+INV1395,2024-10-02,Store-D,Bangalore,,1,,,Credit Card,C495,Very Good
+INV1396,2024-10-22,Store-D,Hyderabad,Chips,8,20.27,162.16,UPI,,Neutral
+INV1397,2024-10-03,Store-B,CHENNAI,Soda,1,42.01,42.01,,C497,
+INV1398,2024-10-16,Store-D,Delhi,Biscuits,6,13.69,,,C498,Excellent
+INV1399,2024-10-29,Store-B,CHENNAI,Soda,9,31.98,287.82,,C499,
+INV1400,2024-10-09,Store-A,Bengaluru,Soda,5,26.17,130.85,,C500,Good
+INV1401,2024-10-04,Store-C,Bengaluru,Chips,1,39.99,,Credit Card,C501,Neutral
+INV1402,2024-10-01,Store-C,Delhi,Biscuits,12,35.84,,Cash,C502,Excellent
+INV1403,2024-10-04,Store-A,Chennai,Biscuits,6,45.52,273.12,UPI,C503,Good
+INV1404,,Store-B,Bangalore,Cookies,13,30.09,391.17,Credit Card,C504,
+INV1405,2024-10-14,Store-C,Delhi,Cookies,14,14.63,204.82,,C505,Poor
+INV1406,2024-10-21,Store-B,Bangalore,,5,16.87,84.35,,C506,Very Good
+INV1407,2024-10-16,Store-B,Hyderabad,Juice,13,39.64,515.32,UPI,C507,Good
+INV1408,2024-10-20,Store-B,Chennai,Cookies,3,43.16,,Cash,C508,Good
+INV1409,2024-10-24,Store-A,Bengaluru,Chips,5,42.8,214.0,Cash,C509,Neutral
+INV1410,,Store-A,Chennai,Soda,1,31.3,31.3,Cash,C510,Excellent
+INV1411,2024-10-07,Store-B,CHENNAI,Biscuits,14,13.38,187.32,,C511,
+INV1412,2024-10-03,Store-D,Bengaluru,Soda,4,46.41,185.64,Credit Card,C512,Good
+INV1413,2024-10-17,Store-A,Bangalore,Chips,8,18.64,149.12,Credit Card,C513,Very Good
+INV1414,2024-10-01,Store-D,Bengaluru,Soda,2,42.67,85.34,Cash,C514,Good
+INV1415,2024-10-16,Store-D,CHENNAI,Biscuits,13,25.5,331.5,UPI,C515,Good
+INV1416,2024-10-12,Store-B,Bengaluru,Cookies,8,26.16,209.28,Cash,C516,Neutral
+INV1417,2024-10-27,Store-D,Delhi,Juice,2,31.7,63.4,Cash,C517,Good
+INV1418,2024-10-19,Store-D,Bangalore,Biscuits,6,33.61,201.66,UPI,C518,Excellent
+INV1419,2024-10-22,Store-D,CHENNAI,Biscuits,14,25.37,355.18,Cash,C519,Neutral
+INV1420,2024-10-23,Store-B,Delhi,Biscuits,2,33.17,66.34,UPI,,Poor
+INV1421,2024-10-22,Store-B,Hyderabad,,7,13.95,97.65,UPI,C521,Poor
+INV1422,2024-10-14,Store-A,Chennai,,5,10.49,52.45,Credit Card,C522,
+INV1423,2024-10-30,Store-A,Delhi,Biscuits,8,11.1,88.8,UPI,C523,
+INV1424,2024-10-06,Store-D,Hyderabad,Chips,6,31.03,186.18,Cash,C524,
+INV1425,2024-10-06,Store-B,CHENNAI,Biscuits,6,16.63,99.78,UPI,C525,Neutral
+INV1426,2024-10-13,Store-B,CHENNAI,,1,11.79,11.79,Cash,C526,Excellent
+INV1427,2024-10-19,Store-D,CHENNAI,,10,47.87,478.7,UPI,C527,Neutral
+INV1428,2024-10-22,Store-A,Bangalore,Soda,14,30.69,429.66,Credit Card,C528,Neutral
+INV1429,2024-10-08,Store-B,CHENNAI,Chips,1,10.27,10.27,Cash,C529,Neutral
+INV1430,2024-10-27,Store-A,Chennai,Cookies,8,41.67,333.36,Cash,C530,Neutral
+INV1431,2024-10-27,Store-D,Bangalore,Soda,11,14.05,154.55,Cash,C531,Good
+INV1432,2024-10-02,Store-B,CHENNAI,,14,31.24,437.36,UPI,C532,
+INV1433,2024-10-21,Store-D,Bangalore,Soda,1,33.21,33.21,Credit Card,C533,
+INV1434,2024-10-30,Store-C,Chennai,Soda,14,14.21,198.94,Credit Card,C534,Very Good
+INV1435,2024-10-01,Store-D,Chennai,Soda,5,48.88,244.4,Credit Card,C535,Poor
+INV1436,2024-10-28,Store-D,Delhi,Chips,14,49.1,687.4,Credit Card,,
+INV1437,2024-10-15,Store-D,Bangalore,Cookies,2,15.43,30.86,UPI,C537,Excellent
+INV1438,2024-10-01,Store-B,Bengaluru,Cookies,9,18.35,165.15,Cash,C538,Good
+INV1439,2024-10-05,Store-D,Hyderabad,Biscuits,9,26.57,239.13,,C539,Poor
+INV1440,,Store-D,CHENNAI,,9,22.53,202.77,Credit Card,C540,Very Good
+INV1441,2024-10-29,Store-C,Hyderabad,Juice,9,29.51,265.59,,C541,Neutral
+INV1442,2024-10-16,Store-B,Chennai,Chips,2,43.42,86.84,UPI,C542,Very Good
+INV1443,2024-10-19,Store-C,Hyderabad,Cookies,14,24.99,349.86,UPI,C543,Poor
+INV1444,2024-10-04,Store-D,Bengaluru,,3,27.77,83.31,,C544,
+INV1445,2024-10-03,Store-B,Hyderabad,,2,31.82,63.64,Cash,C545,Poor
+INV1446,2024-10-17,Store-C,Delhi,Chips,7,34.28,239.96,,C546,Good
+INV1447,2024-10-17,Store-D,Hyderabad,Chips,11,11.24,123.64,UPI,C547,Good
+INV1448,2024-10-12,Store-A,Chennai,,14,40.94,,,C548,Excellent
+INV1449,2024-10-28,Store-C,Chennai,Biscuits,9,29.12,262.08,Credit Card,C549,Neutral
+INV1450,2024-10-30,Store-B,Delhi,Cookies,1,16.73,16.73,Credit Card,C550,
+INV1451,2024-10-29,Store-C,CHENNAI,Juice,7,43.54,304.78,Cash,C551,
+INV1452,2024-10-14,Store-C,Bangalore,Juice,3,43.07,129.21,,C552,Very Good
+INV1453,2024-10-21,Store-C,CHENNAI,Juice,9,17.09,153.81,,C553,Neutral
+INV1454,2024-10-06,Store-A,Chennai,Soda,1,37.1,,,C554,Very Good
+INV1455,2024-10-03,Store-B,CHENNAI,Cookies,6,43.23,259.38,,C555,Neutral
+INV1456,2024-10-28,Store-B,Hyderabad,Soda,3,16.61,49.83,Cash,C556,Poor
+INV1457,2024-10-09,Store-B,Hyderabad,Soda,14,49.99,699.86,UPI,C557,Poor
+INV1458,2024-10-05,Store-D,Chennai,,14,42.67,597.38,Cash,C558,Neutral
+INV1459,2024-10-24,Store-B,Chennai,Soda,5,41.3,206.5,UPI,C559,Excellent
+INV1460,2024-10-29,Store-B,CHENNAI,Biscuits,2,22.02,44.04,UPI,C560,Poor
+INV1461,2024-10-17,Store-A,CHENNAI,Biscuits,5,41.7,208.5,UPI,C561,Excellent
+INV1462,2024-10-14,Store-D,Hyderabad,Chips,9,39.23,353.07,,C562,Poor
+INV1463,2024-10-21,Store-D,Bangalore,Chips,2,44.1,88.2,Cash,C563,
+INV1464,2024-10-03,Store-C,Delhi,Cookies,12,46.28,555.36,UPI,C564,Good
+INV1465,2024-10-28,Store-D,Bangalore,Cookies,11,33.72,370.92,Credit Card,C565,Good
+INV1466,2024-10-01,Store-D,Chennai,Biscuits,6,24.14,144.84,UPI,C566,
+INV1467,2024-10-20,Store-A,CHENNAI,Chips,12,11.52,138.24,Cash,C567,Neutral
+INV1468,2024-10-29,Store-B,Bangalore,,13,31.97,415.61,,C568,Very Good
+INV1469,2024-10-21,Store-D,CHENNAI,Chips,7,37.23,260.61,Credit Card,C569,Good
+INV1470,2024-10-23,Store-D,Bengaluru,Soda,5,11.38,56.9,UPI,C570,Poor
+INV1471,2024-10-01,Store-A,Hyderabad,Juice,9,47.96,431.64,,C571,Poor
+INV1472,2024-10-03,Store-D,Delhi,,3,13.75,41.25,Cash,,Good
+INV1473,2024-10-18,Store-D,CHENNAI,Juice,5,29.68,148.4,Cash,C573,Good
+INV1474,2024-10-25,Store-A,Delhi,Juice,3,29.66,88.98,Credit Card,C574,Very Good
+INV1475,2024-10-10,Store-C,CHENNAI,Biscuits,13,32.51,422.63,Credit Card,C575,Good
+INV1476,2024-10-22,Store-C,CHENNAI,Juice,5,34.23,171.15,UPI,C576,Neutral
+INV1477,2024-10-26,Store-D,Delhi,Juice,11,24.49,269.39,,C577,Very Good
+INV1478,2024-10-03,Store-D,Delhi,Soda,12,45.78,549.36,,C578,
+INV1479,2024-10-08,Store-B,Bangalore,Cookies,10,27.74,277.4,Cash,C579,
+INV1480,2024-10-14,Store-D,CHENNAI,Biscuits,2,33.66,67.32,Cash,C580,Good
+INV1481,2024-10-24,Store-B,Bengaluru,Chips,13,29.06,377.78,UPI,C581,Poor
+INV1482,2024-10-18,Store-C,Bangalore,Soda,9,12.38,111.42,UPI,C582,
+INV1483,2024-10-15,Store-D,Chennai,Juice,7,,,Cash,C583,Good
+INV1484,2024-10-22,Store-D,Chennai,Chips,10,21.94,219.4,Cash,C584,Neutral
+INV1485,2024-10-23,Store-A,Hyderabad,Soda,7,22.48,157.36,,C585,Neutral
+INV1486,2024-10-02,Store-D,Bengaluru,,1,11.23,11.23,,C586,Poor
+INV1487,2024-10-27,Store-C,CHENNAI,,10,18.83,188.3,,C587,Very Good
+INV1488,2024-10-10,Store-D,Bengaluru,Biscuits,4,40.5,162.0,UPI,C588,Poor
+INV1489,2024-10-02,Store-B,Chennai,Juice,7,11.22,78.54,,C589,Good
+INV1490,2024-10-26,Store-D,CHENNAI,Biscuits,12,31.09,373.08,Credit Card,C590,Poor
+INV1491,2024-10-17,Store-B,Bengaluru,,10,35.78,357.8,Credit Card,C591,Very Good
+INV1492,2024-10-08,Store-A,Delhi,Soda,13,23.34,303.42,,C592,Excellent
+INV1493,2024-10-01,Store-D,Bangalore,Chips,6,31.14,186.84,,C593,Poor
+INV1494,2024-10-09,Store-A,CHENNAI,Cookies,12,49.62,595.44,Cash,C594,
+INV1495,2024-10-11,Store-A,Delhi,Juice,9,49.79,448.11,Cash,C595,Very Good
+INV1496,2024-10-22,Store-D,Bangalore,Biscuits,8,10.09,80.72,UPI,C596,Excellent
+INV1497,2024-10-16,Store-B,Bengaluru,Chips,13,,,Credit Card,C597,Very Good
+INV1498,2024-10-07,Store-D,CHENNAI,Chips,8,35.32,282.56,Credit Card,C598,Very Good
+INV1499,2024-10-29,Store-B,Hyderabad,Cookies,10,10.23,102.3,UPI,,
